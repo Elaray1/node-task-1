@@ -1,0 +1,16 @@
+{
+  "name": "caersar",
+  "version": "1.0.0",
+  "description": "Caesar cipher CLI tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "elaray1",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^5.0.0",
+    "through2": "^3.0.1",
+    "util": "^0.12.2"
+  }
+}
